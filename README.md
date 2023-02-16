@@ -7,7 +7,7 @@
 - Founder of [Nabrio](https://www.nabrio.com), a company with the mission to democratise intelligent automation for everyone and with the goal to better all lives through innovative technologies.  
   
 
-- I’m currently working on [Zene](https://www.nabrio.com/products/zene).  
+- I’m currently working on [Zene](https://www.nabrio.com/zene).  
   
 
 <br/>  
